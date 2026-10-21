@@ -1,0 +1,5 @@
+[functions.verify-propos-license]
+verify_jwt = false
+
+[functions.admin-license-management]
+verify_jwt = true
